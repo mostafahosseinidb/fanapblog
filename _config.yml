@@ -36,7 +36,9 @@ gems:
 
 
 jekyll-archives:
-  enabled: all
+  enabled:
+    - month
+    - tags
   layout: archive
   permalinks:
     year: '/:year/'
