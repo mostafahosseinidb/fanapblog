@@ -3,8 +3,8 @@
 	<channel>
 		<title> - Miscellaneous</title>
 		<description>Posts categorized as 'miscellaneous'</description>
-		<link>https://mostafahosseinidb.github.io/fanapblog</link>
-		<atom:link href="https://mostafahosseinidb.github.io/fanapblog/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>https://mostafahosseinidb.github.io</link>
+		<atom:link href="https://mostafahosseinidb.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
