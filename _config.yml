@@ -34,17 +34,15 @@ gems:
   - jekyll-archives
 
 
-
 jekyll-archives:
-  enabled:
-    - month
-    - tags
+  enabled: all
   layout: archive
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
     tags: '/tags/:name/'
+    category: '/category/:name/'
     
     
 collections:
